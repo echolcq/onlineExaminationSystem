@@ -1,0 +1,12 @@
+com\scu\exam\pojo\Question.class
+com\scu\exam\pojo\Test.class
+com\scu\exam\service\TestService.class
+com\scu\exam\service\CorrectRateService.class
+com\scu\exam\mapper\CorrectRateMapper.class
+com\scu\exam\pojo\CorrectRate.class
+com\scu\exam\service\impl\CorrectRateServiceImpl.class
+com\scu\exam\mapper\TestMapper.class
+com\scu\exam\controller\CorrectRateController.class
+com\scu\exam\service\impl\TestServiceImpl.class
+com\scu\exam\pojo\Teacher.class
+com\scu\exam\controller\TestController.class
